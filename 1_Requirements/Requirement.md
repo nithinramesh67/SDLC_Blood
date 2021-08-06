@@ -9,7 +9,7 @@ As per the information obtained from blood bank and hospital we had understood t
 - Features: Login ,Blood stocks update by Blood Bank,Web based stock lookup for user,Organize Blood Campaign.
 
 ## Defining Our System
-![System-Diagram]()
+![System-Diagram](https://github.com/nithinramesh67/SDLC_Blood/blob/main/1_Requirements/c.PNG)
 ## SWOT ANALYSIS
 ![System-Diagram](https://github.com/nithinramesh67/SDLC_Blood/blob/main/1_Requirements/swot.png)
 
