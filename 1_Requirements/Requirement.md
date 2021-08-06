@@ -11,7 +11,7 @@ As per the information obtained from blood bank and hospital we had understood t
 ## Defining Our System
     -- TBD
 ## SWOT ANALYSIS
-![SWOT-Sample](Link to Pic)
+
 
 # 4W&#39;s and 1&#39;H
 
@@ -21,15 +21,15 @@ The tool is a helping hand for the user who needs blood for his freind/family wh
 
 ## What:
 
-to resolve the emergency need of blood where it is available with knowledge of stocks
+To resolve the emergency need of blood where it is available with knowledge of stocks
 
 ## When:
 
-at emergency need when user visits webpage views latest update of blood stock
+At emergency need when user visits webpage views latest update of blood stock
 
 ## Where:
 
-wherever he searches on web shows the stock update of blood based on region
+Wherever he searches on web shows the stock update of blood based on region
 
 ## How:
 The system opens up the stock update of blood bank are available. Upon selection of blood group, the list of inter-conversions i.e., the sub-system is shown on the screen. The user can view the stock available on the list.  The results for all blood group are flashed in a second.
@@ -42,10 +42,7 @@ The system opens up the stock update of blood bank are available. Upon selection
 |HR_01|Length |Implemented|
 |HR_02|Area |Implemented|
 |HR_03|Volume|Implemented|
-|HR_04|Mass |Implemented|
-|HR_05|Speed |Implemented|
-|HR_06|Time|Future|
-|HR_07|Temperature|Future|
+
 
 
 
