@@ -9,7 +9,7 @@ As per the information obtained from blood bank and hospital we had understood t
 - Features: Login ,Blood stocks update by Blood Bank,Web based stock lookup for user,Organize Blood Campaign.
 
 ## Defining Our System
-    -- TBD
+![System-Diagram]()
 ## SWOT ANALYSIS
 ![System-Diagram](https://github.com/nithinramesh67/SDLC_Blood/blob/main/1_Requirements/swot.png)
 
@@ -39,9 +39,10 @@ The system opens up the stock update of blood bank are available. Upon selection
 ## High Level Requirements:
 |      ID          |Description                          |Status                         |
 |----------------|-------------------------------|-----------------------------|
-|HR_01|Length |Implemented|
-|HR_02|Area |Implemented|
-|HR_03|Volume|Implemented|
+|HR_01|Manage User and Bank data |Implemented|
+|HR_02|Blood Data fetch from Blood bank |Implemented
+|HR_03|Blood Data search |Implemented|
+|HR_04|show blood stock |Implemented|
 
 
 
@@ -49,14 +50,8 @@ The system opens up the stock update of blood bank are available. Upon selection
 ##  Low level Requirements:
 |      ID          |Description                          |  HLR_ID  |Status               |
 |----------------|-------------------------------|----------|-----------------------------|
-|LR_01|Meter|HR_01|Implemented|
-|LR_02|Centimeter|HR_01|Implemented|
-|LR_03|Foot|HR_01|Implemented|
-|LR_04|Inch|HR_01|Implemented|
-|LR_05|Millimeter|HR_01|Implemented|
-|LR_06|Square Meter|HR_02|Implemented|
-|LR_07|Square Centimeter|HR_02|Implemented|
-|LR_08|Square Foot|HR_02|Implemented|
-|LR_09|MSquare Inch|HR_02|Implemented|
-|LR_10|Square Yard|HR_02|Implemented|
-|LR_11|Cubic Meter|HR_03|Implemented|
+|LR_01|Login for bank|HR_01|Implemented|
+|LR_02|Login for user|HR_01|Implemented|
+|LR_03|User data|HR_01|Implemented|
+|LR_04|Blood data|HR_02|Implemented|
+
