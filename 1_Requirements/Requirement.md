@@ -11,7 +11,7 @@ As per the information obtained from blood bank and hospital we had understood t
 ## Defining Our System
     -- TBD
 ## SWOT ANALYSIS
-
+![System-Diagram](https://github.com/Sanchana-2k/LTTS_C_MiniProject/blob/bd3f1a159eb0f2032dbd88662892a2142d26b84d/1_Requirements/System%20Diagram.jpg)
 
 # 4W&#39;s and 1&#39;H
 
